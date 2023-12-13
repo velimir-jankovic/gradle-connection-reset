@@ -1,0 +1,9 @@
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.facebook.device.yearclass:yearclass:2.1.0'
+}
